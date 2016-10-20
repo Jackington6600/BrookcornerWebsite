@@ -103,6 +103,7 @@ ul {
 ul li {
     display: inline;
     margin-right: 5px;
+	
 }
 
 ul li a {
@@ -112,6 +113,7 @@ ul li a {
     padding: 0px 10px;
     text-decoration: none;
     color: #404040;
+	transition: color 0.3s ease;
 }
 
 ul li a.active {
