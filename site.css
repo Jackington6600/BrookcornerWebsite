@@ -123,7 +123,7 @@ ul li a.active {
 
 ul li a:hover:not(.active) {
     background-color: #9EDBCF;
-    color: #EAFCFC;
+    color: white;
 }
 
 /* Dropdown Button */
